@@ -711,7 +711,7 @@ p {
   height: 100%;
   position: relative;
   overflow: hidden;
-  float: left;
+  float: center;
   margin-bottom: 30px;
 }
 @media screen and (max-width: 480px) {
@@ -792,7 +792,7 @@ p {
 }
 
 .fh5co-lead {
-  font-size: 26px;
+  font-size: 22px;
 }
 @media screen and (max-width: 768px) {
   .fh5co-lead {
